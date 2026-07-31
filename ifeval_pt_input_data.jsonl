@@ -1,0 +1,308 @@
+{"key": 1, "prompt": "Explique o que é reciclagem. Responda em no máximo 2 frases.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 2}]}
+{"key": 2, "prompt": "Explique o que é reciclagem. Responda em exatamente uma frase.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 1}]}
+{"key": 3, "prompt": "Explique o que é reciclagem. Use no máximo 30 palavras.", "instruction_id_list": ["ptbr:max_palavras"], "kwargs": [{"n": 30}]}
+{"key": 4, "prompt": "Explique o que é reciclagem. Escreva pelo menos 40 palavras.", "instruction_id_list": ["ptbr:min_palavras"], "kwargs": [{"n": 40}]}
+{"key": 5, "prompt": "Explique o que é reciclagem. Use a palavra 'importante' na resposta.", "instruction_id_list": ["ptbr:contem"], "kwargs": [{"palavra": "importante"}]}
+{"key": 6, "prompt": "Explique o que é reciclagem. Cite a palavra 'água' pelo menos duas vezes.", "instruction_id_list": ["ptbr:contem_n_vezes"], "kwargs": [{"palavra": "água", "n": 2}]}
+{"key": 7, "prompt": "Explique o que é reciclagem. Não use a palavra 'você' em nenhum momento.", "instruction_id_list": ["ptbr:nao_contem"], "kwargs": [{"palavra": "você"}]}
+{"key": 8, "prompt": "Explique o que é reciclagem. Comece a resposta exatamente com a palavra 'Olha'.", "instruction_id_list": ["ptbr:comeca_com"], "kwargs": [{"texto": "Olha"}]}
+{"key": 9, "prompt": "Explique o que é reciclagem. Termine a resposta com a frase 'Espero ter ajudado'.", "instruction_id_list": ["ptbr:termina_com"], "kwargs": [{"texto": "espero ter ajudado"}]}
+{"key": 10, "prompt": "Explique o que é reciclagem. Escreva a resposta inteira em letras minúsculas.", "instruction_id_list": ["ptbr:minusculas"], "kwargs": [{}]}
+{"key": 11, "prompt": "Explique o que é reciclagem. Use crase pelo menos uma vez na resposta.", "instruction_id_list": ["ptbr:crase"], "kwargs": [{}]}
+{"key": 12, "prompt": "Explique o que é reciclagem. Não use crase em nenhum momento.", "instruction_id_list": ["ptbr:sem_crase"], "kwargs": [{}]}
+{"key": 13, "prompt": "Explique o que é reciclagem. Use uma mesóclise na resposta, como em 'dar-lhe-ei'.", "instruction_id_list": ["ptbr:mesoclise"], "kwargs": [{}]}
+{"key": 14, "prompt": "Explique o que é reciclagem. Use próclise depois de palavra atrativa, como em 'não me diga'.", "instruction_id_list": ["ptbr:proclise"], "kwargs": [{}]}
+{"key": 15, "prompt": "Explique o que é reciclagem. Use ênclise na resposta, como em 'diga-me'.", "instruction_id_list": ["ptbr:enclise"], "kwargs": [{}]}
+{"key": 16, "prompt": "Explique o que é reciclagem. Use pelo menos três palavras com a letra ç.", "instruction_id_list": ["ptbr:cedilha"], "kwargs": [{"n": 3}]}
+{"key": 17, "prompt": "Explique o que é reciclagem. Escreva a resposta inteira sem usar nenhum til (ã, õ).", "instruction_id_list": ["ptbr:sem_til"], "kwargs": [{}]}
+{"key": 18, "prompt": "Explique o que é reciclagem. Use 'por que' e 'porque' na mesma resposta.", "instruction_id_list": ["ptbr:porque_ambos"], "kwargs": [{}]}
+{"key": 19, "prompt": "Explique o que é reciclagem. Trate o leitor por 'você' e nunca por 'tu'.", "instruction_id_list": ["ptbr:so_voce"], "kwargs": [{}]}
+{"key": 20, "prompt": "Explique o que é reciclagem. Escreva a resposta inteira sem nenhum acento ou cedilha.", "instruction_id_list": ["ptbr:sem_diacritico"], "kwargs": [{}]}
+{"key": 21, "prompt": "Explique o que é reciclagem. Escreva todos os números por extenso, sem algarismos.", "instruction_id_list": ["ptbr:sem_digito"], "kwargs": [{}]}
+{"key": 22, "prompt": "Explique o que é reciclagem. Use na resposta pelo menos uma palavra com acento agudo e uma com circunflexo.", "instruction_id_list": ["ptbr:agudo_e_circunflexo"], "kwargs": [{}]}
+{"key": 23, "prompt": "Fale sobre a importância de beber água. Responda em no máximo 2 frases.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 2}]}
+{"key": 24, "prompt": "Fale sobre a importância de beber água. Responda em exatamente uma frase.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 1}]}
+{"key": 25, "prompt": "Fale sobre a importância de beber água. Use no máximo 30 palavras.", "instruction_id_list": ["ptbr:max_palavras"], "kwargs": [{"n": 30}]}
+{"key": 26, "prompt": "Fale sobre a importância de beber água. Escreva pelo menos 40 palavras.", "instruction_id_list": ["ptbr:min_palavras"], "kwargs": [{"n": 40}]}
+{"key": 27, "prompt": "Fale sobre a importância de beber água. Use a palavra 'importante' na resposta.", "instruction_id_list": ["ptbr:contem"], "kwargs": [{"palavra": "importante"}]}
+{"key": 28, "prompt": "Fale sobre a importância de beber água. Cite a palavra 'água' pelo menos duas vezes.", "instruction_id_list": ["ptbr:contem_n_vezes"], "kwargs": [{"palavra": "água", "n": 2}]}
+{"key": 29, "prompt": "Fale sobre a importância de beber água. Não use a palavra 'você' em nenhum momento.", "instruction_id_list": ["ptbr:nao_contem"], "kwargs": [{"palavra": "você"}]}
+{"key": 30, "prompt": "Fale sobre a importância de beber água. Comece a resposta exatamente com a palavra 'Olha'.", "instruction_id_list": ["ptbr:comeca_com"], "kwargs": [{"texto": "Olha"}]}
+{"key": 31, "prompt": "Fale sobre a importância de beber água. Termine a resposta com a frase 'Espero ter ajudado'.", "instruction_id_list": ["ptbr:termina_com"], "kwargs": [{"texto": "espero ter ajudado"}]}
+{"key": 32, "prompt": "Fale sobre a importância de beber água. Escreva a resposta inteira em letras minúsculas.", "instruction_id_list": ["ptbr:minusculas"], "kwargs": [{}]}
+{"key": 33, "prompt": "Fale sobre a importância de beber água. Use crase pelo menos uma vez na resposta.", "instruction_id_list": ["ptbr:crase"], "kwargs": [{}]}
+{"key": 34, "prompt": "Fale sobre a importância de beber água. Não use crase em nenhum momento.", "instruction_id_list": ["ptbr:sem_crase"], "kwargs": [{}]}
+{"key": 35, "prompt": "Fale sobre a importância de beber água. Use uma mesóclise na resposta, como em 'dar-lhe-ei'.", "instruction_id_list": ["ptbr:mesoclise"], "kwargs": [{}]}
+{"key": 36, "prompt": "Fale sobre a importância de beber água. Use próclise depois de palavra atrativa, como em 'não me diga'.", "instruction_id_list": ["ptbr:proclise"], "kwargs": [{}]}
+{"key": 37, "prompt": "Fale sobre a importância de beber água. Use ênclise na resposta, como em 'diga-me'.", "instruction_id_list": ["ptbr:enclise"], "kwargs": [{}]}
+{"key": 38, "prompt": "Fale sobre a importância de beber água. Use pelo menos três palavras com a letra ç.", "instruction_id_list": ["ptbr:cedilha"], "kwargs": [{"n": 3}]}
+{"key": 39, "prompt": "Fale sobre a importância de beber água. Escreva a resposta inteira sem usar nenhum til (ã, õ).", "instruction_id_list": ["ptbr:sem_til"], "kwargs": [{}]}
+{"key": 40, "prompt": "Fale sobre a importância de beber água. Use 'por que' e 'porque' na mesma resposta.", "instruction_id_list": ["ptbr:porque_ambos"], "kwargs": [{}]}
+{"key": 41, "prompt": "Fale sobre a importância de beber água. Trate o leitor por 'você' e nunca por 'tu'.", "instruction_id_list": ["ptbr:so_voce"], "kwargs": [{}]}
+{"key": 42, "prompt": "Fale sobre a importância de beber água. Escreva a resposta inteira sem nenhum acento ou cedilha.", "instruction_id_list": ["ptbr:sem_diacritico"], "kwargs": [{}]}
+{"key": 43, "prompt": "Fale sobre a importância de beber água. Escreva todos os números por extenso, sem algarismos.", "instruction_id_list": ["ptbr:sem_digito"], "kwargs": [{}]}
+{"key": 44, "prompt": "Fale sobre a importância de beber água. Use na resposta pelo menos uma palavra com acento agudo e uma com circunflexo.", "instruction_id_list": ["ptbr:agudo_e_circunflexo"], "kwargs": [{}]}
+{"key": 45, "prompt": "Descreva como fazer um café coado. Responda em no máximo 2 frases.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 2}]}
+{"key": 46, "prompt": "Descreva como fazer um café coado. Responda em exatamente uma frase.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 1}]}
+{"key": 47, "prompt": "Descreva como fazer um café coado. Use no máximo 30 palavras.", "instruction_id_list": ["ptbr:max_palavras"], "kwargs": [{"n": 30}]}
+{"key": 48, "prompt": "Descreva como fazer um café coado. Escreva pelo menos 40 palavras.", "instruction_id_list": ["ptbr:min_palavras"], "kwargs": [{"n": 40}]}
+{"key": 49, "prompt": "Descreva como fazer um café coado. Use a palavra 'importante' na resposta.", "instruction_id_list": ["ptbr:contem"], "kwargs": [{"palavra": "importante"}]}
+{"key": 50, "prompt": "Descreva como fazer um café coado. Cite a palavra 'água' pelo menos duas vezes.", "instruction_id_list": ["ptbr:contem_n_vezes"], "kwargs": [{"palavra": "água", "n": 2}]}
+{"key": 51, "prompt": "Descreva como fazer um café coado. Não use a palavra 'você' em nenhum momento.", "instruction_id_list": ["ptbr:nao_contem"], "kwargs": [{"palavra": "você"}]}
+{"key": 52, "prompt": "Descreva como fazer um café coado. Comece a resposta exatamente com a palavra 'Olha'.", "instruction_id_list": ["ptbr:comeca_com"], "kwargs": [{"texto": "Olha"}]}
+{"key": 53, "prompt": "Descreva como fazer um café coado. Termine a resposta com a frase 'Espero ter ajudado'.", "instruction_id_list": ["ptbr:termina_com"], "kwargs": [{"texto": "espero ter ajudado"}]}
+{"key": 54, "prompt": "Descreva como fazer um café coado. Escreva a resposta inteira em letras minúsculas.", "instruction_id_list": ["ptbr:minusculas"], "kwargs": [{}]}
+{"key": 55, "prompt": "Descreva como fazer um café coado. Use crase pelo menos uma vez na resposta.", "instruction_id_list": ["ptbr:crase"], "kwargs": [{}]}
+{"key": 56, "prompt": "Descreva como fazer um café coado. Não use crase em nenhum momento.", "instruction_id_list": ["ptbr:sem_crase"], "kwargs": [{}]}
+{"key": 57, "prompt": "Descreva como fazer um café coado. Use uma mesóclise na resposta, como em 'dar-lhe-ei'.", "instruction_id_list": ["ptbr:mesoclise"], "kwargs": [{}]}
+{"key": 58, "prompt": "Descreva como fazer um café coado. Use próclise depois de palavra atrativa, como em 'não me diga'.", "instruction_id_list": ["ptbr:proclise"], "kwargs": [{}]}
+{"key": 59, "prompt": "Descreva como fazer um café coado. Use ênclise na resposta, como em 'diga-me'.", "instruction_id_list": ["ptbr:enclise"], "kwargs": [{}]}
+{"key": 60, "prompt": "Descreva como fazer um café coado. Use pelo menos três palavras com a letra ç.", "instruction_id_list": ["ptbr:cedilha"], "kwargs": [{"n": 3}]}
+{"key": 61, "prompt": "Descreva como fazer um café coado. Escreva a resposta inteira sem usar nenhum til (ã, õ).", "instruction_id_list": ["ptbr:sem_til"], "kwargs": [{}]}
+{"key": 62, "prompt": "Descreva como fazer um café coado. Use 'por que' e 'porque' na mesma resposta.", "instruction_id_list": ["ptbr:porque_ambos"], "kwargs": [{}]}
+{"key": 63, "prompt": "Descreva como fazer um café coado. Trate o leitor por 'você' e nunca por 'tu'.", "instruction_id_list": ["ptbr:so_voce"], "kwargs": [{}]}
+{"key": 64, "prompt": "Descreva como fazer um café coado. Escreva a resposta inteira sem nenhum acento ou cedilha.", "instruction_id_list": ["ptbr:sem_diacritico"], "kwargs": [{}]}
+{"key": 65, "prompt": "Descreva como fazer um café coado. Escreva todos os números por extenso, sem algarismos.", "instruction_id_list": ["ptbr:sem_digito"], "kwargs": [{}]}
+{"key": 66, "prompt": "Descreva como fazer um café coado. Use na resposta pelo menos uma palavra com acento agudo e uma com circunflexo.", "instruction_id_list": ["ptbr:agudo_e_circunflexo"], "kwargs": [{}]}
+{"key": 67, "prompt": "Conte o que se faz numa feira livre. Responda em no máximo 2 frases.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 2}]}
+{"key": 68, "prompt": "Conte o que se faz numa feira livre. Responda em exatamente uma frase.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 1}]}
+{"key": 69, "prompt": "Conte o que se faz numa feira livre. Use no máximo 30 palavras.", "instruction_id_list": ["ptbr:max_palavras"], "kwargs": [{"n": 30}]}
+{"key": 70, "prompt": "Conte o que se faz numa feira livre. Escreva pelo menos 40 palavras.", "instruction_id_list": ["ptbr:min_palavras"], "kwargs": [{"n": 40}]}
+{"key": 71, "prompt": "Conte o que se faz numa feira livre. Use a palavra 'importante' na resposta.", "instruction_id_list": ["ptbr:contem"], "kwargs": [{"palavra": "importante"}]}
+{"key": 72, "prompt": "Conte o que se faz numa feira livre. Cite a palavra 'água' pelo menos duas vezes.", "instruction_id_list": ["ptbr:contem_n_vezes"], "kwargs": [{"palavra": "água", "n": 2}]}
+{"key": 73, "prompt": "Conte o que se faz numa feira livre. Não use a palavra 'você' em nenhum momento.", "instruction_id_list": ["ptbr:nao_contem"], "kwargs": [{"palavra": "você"}]}
+{"key": 74, "prompt": "Conte o que se faz numa feira livre. Comece a resposta exatamente com a palavra 'Olha'.", "instruction_id_list": ["ptbr:comeca_com"], "kwargs": [{"texto": "Olha"}]}
+{"key": 75, "prompt": "Conte o que se faz numa feira livre. Termine a resposta com a frase 'Espero ter ajudado'.", "instruction_id_list": ["ptbr:termina_com"], "kwargs": [{"texto": "espero ter ajudado"}]}
+{"key": 76, "prompt": "Conte o que se faz numa feira livre. Escreva a resposta inteira em letras minúsculas.", "instruction_id_list": ["ptbr:minusculas"], "kwargs": [{}]}
+{"key": 77, "prompt": "Conte o que se faz numa feira livre. Use crase pelo menos uma vez na resposta.", "instruction_id_list": ["ptbr:crase"], "kwargs": [{}]}
+{"key": 78, "prompt": "Conte o que se faz numa feira livre. Não use crase em nenhum momento.", "instruction_id_list": ["ptbr:sem_crase"], "kwargs": [{}]}
+{"key": 79, "prompt": "Conte o que se faz numa feira livre. Use uma mesóclise na resposta, como em 'dar-lhe-ei'.", "instruction_id_list": ["ptbr:mesoclise"], "kwargs": [{}]}
+{"key": 80, "prompt": "Conte o que se faz numa feira livre. Use próclise depois de palavra atrativa, como em 'não me diga'.", "instruction_id_list": ["ptbr:proclise"], "kwargs": [{}]}
+{"key": 81, "prompt": "Conte o que se faz numa feira livre. Use ênclise na resposta, como em 'diga-me'.", "instruction_id_list": ["ptbr:enclise"], "kwargs": [{}]}
+{"key": 82, "prompt": "Conte o que se faz numa feira livre. Use pelo menos três palavras com a letra ç.", "instruction_id_list": ["ptbr:cedilha"], "kwargs": [{"n": 3}]}
+{"key": 83, "prompt": "Conte o que se faz numa feira livre. Escreva a resposta inteira sem usar nenhum til (ã, õ).", "instruction_id_list": ["ptbr:sem_til"], "kwargs": [{}]}
+{"key": 84, "prompt": "Conte o que se faz numa feira livre. Use 'por que' e 'porque' na mesma resposta.", "instruction_id_list": ["ptbr:porque_ambos"], "kwargs": [{}]}
+{"key": 85, "prompt": "Conte o que se faz numa feira livre. Trate o leitor por 'você' e nunca por 'tu'.", "instruction_id_list": ["ptbr:so_voce"], "kwargs": [{}]}
+{"key": 86, "prompt": "Conte o que se faz numa feira livre. Escreva a resposta inteira sem nenhum acento ou cedilha.", "instruction_id_list": ["ptbr:sem_diacritico"], "kwargs": [{}]}
+{"key": 87, "prompt": "Conte o que se faz numa feira livre. Escreva todos os números por extenso, sem algarismos.", "instruction_id_list": ["ptbr:sem_digito"], "kwargs": [{}]}
+{"key": 88, "prompt": "Conte o que se faz numa feira livre. Use na resposta pelo menos uma palavra com acento agudo e uma com circunflexo.", "instruction_id_list": ["ptbr:agudo_e_circunflexo"], "kwargs": [{}]}
+{"key": 89, "prompt": "Explique por que é bom caminhar todo dia. Responda em no máximo 2 frases.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 2}]}
+{"key": 90, "prompt": "Explique por que é bom caminhar todo dia. Responda em exatamente uma frase.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 1}]}
+{"key": 91, "prompt": "Explique por que é bom caminhar todo dia. Use no máximo 30 palavras.", "instruction_id_list": ["ptbr:max_palavras"], "kwargs": [{"n": 30}]}
+{"key": 92, "prompt": "Explique por que é bom caminhar todo dia. Escreva pelo menos 40 palavras.", "instruction_id_list": ["ptbr:min_palavras"], "kwargs": [{"n": 40}]}
+{"key": 93, "prompt": "Explique por que é bom caminhar todo dia. Use a palavra 'importante' na resposta.", "instruction_id_list": ["ptbr:contem"], "kwargs": [{"palavra": "importante"}]}
+{"key": 94, "prompt": "Explique por que é bom caminhar todo dia. Cite a palavra 'água' pelo menos duas vezes.", "instruction_id_list": ["ptbr:contem_n_vezes"], "kwargs": [{"palavra": "água", "n": 2}]}
+{"key": 95, "prompt": "Explique por que é bom caminhar todo dia. Não use a palavra 'você' em nenhum momento.", "instruction_id_list": ["ptbr:nao_contem"], "kwargs": [{"palavra": "você"}]}
+{"key": 96, "prompt": "Explique por que é bom caminhar todo dia. Comece a resposta exatamente com a palavra 'Olha'.", "instruction_id_list": ["ptbr:comeca_com"], "kwargs": [{"texto": "Olha"}]}
+{"key": 97, "prompt": "Explique por que é bom caminhar todo dia. Termine a resposta com a frase 'Espero ter ajudado'.", "instruction_id_list": ["ptbr:termina_com"], "kwargs": [{"texto": "espero ter ajudado"}]}
+{"key": 98, "prompt": "Explique por que é bom caminhar todo dia. Escreva a resposta inteira em letras minúsculas.", "instruction_id_list": ["ptbr:minusculas"], "kwargs": [{}]}
+{"key": 99, "prompt": "Explique por que é bom caminhar todo dia. Use crase pelo menos uma vez na resposta.", "instruction_id_list": ["ptbr:crase"], "kwargs": [{}]}
+{"key": 100, "prompt": "Explique por que é bom caminhar todo dia. Não use crase em nenhum momento.", "instruction_id_list": ["ptbr:sem_crase"], "kwargs": [{}]}
+{"key": 101, "prompt": "Explique por que é bom caminhar todo dia. Use uma mesóclise na resposta, como em 'dar-lhe-ei'.", "instruction_id_list": ["ptbr:mesoclise"], "kwargs": [{}]}
+{"key": 102, "prompt": "Explique por que é bom caminhar todo dia. Use próclise depois de palavra atrativa, como em 'não me diga'.", "instruction_id_list": ["ptbr:proclise"], "kwargs": [{}]}
+{"key": 103, "prompt": "Explique por que é bom caminhar todo dia. Use ênclise na resposta, como em 'diga-me'.", "instruction_id_list": ["ptbr:enclise"], "kwargs": [{}]}
+{"key": 104, "prompt": "Explique por que é bom caminhar todo dia. Use pelo menos três palavras com a letra ç.", "instruction_id_list": ["ptbr:cedilha"], "kwargs": [{"n": 3}]}
+{"key": 105, "prompt": "Explique por que é bom caminhar todo dia. Escreva a resposta inteira sem usar nenhum til (ã, õ).", "instruction_id_list": ["ptbr:sem_til"], "kwargs": [{}]}
+{"key": 106, "prompt": "Explique por que é bom caminhar todo dia. Use 'por que' e 'porque' na mesma resposta.", "instruction_id_list": ["ptbr:porque_ambos"], "kwargs": [{}]}
+{"key": 107, "prompt": "Explique por que é bom caminhar todo dia. Trate o leitor por 'você' e nunca por 'tu'.", "instruction_id_list": ["ptbr:so_voce"], "kwargs": [{}]}
+{"key": 108, "prompt": "Explique por que é bom caminhar todo dia. Escreva a resposta inteira sem nenhum acento ou cedilha.", "instruction_id_list": ["ptbr:sem_diacritico"], "kwargs": [{}]}
+{"key": 109, "prompt": "Explique por que é bom caminhar todo dia. Escreva todos os números por extenso, sem algarismos.", "instruction_id_list": ["ptbr:sem_digito"], "kwargs": [{}]}
+{"key": 110, "prompt": "Explique por que é bom caminhar todo dia. Use na resposta pelo menos uma palavra com acento agudo e uma com circunflexo.", "instruction_id_list": ["ptbr:agudo_e_circunflexo"], "kwargs": [{}]}
+{"key": 111, "prompt": "Fale sobre o clima do Brasil. Responda em no máximo 2 frases.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 2}]}
+{"key": 112, "prompt": "Fale sobre o clima do Brasil. Responda em exatamente uma frase.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 1}]}
+{"key": 113, "prompt": "Fale sobre o clima do Brasil. Use no máximo 30 palavras.", "instruction_id_list": ["ptbr:max_palavras"], "kwargs": [{"n": 30}]}
+{"key": 114, "prompt": "Fale sobre o clima do Brasil. Escreva pelo menos 40 palavras.", "instruction_id_list": ["ptbr:min_palavras"], "kwargs": [{"n": 40}]}
+{"key": 115, "prompt": "Fale sobre o clima do Brasil. Use a palavra 'importante' na resposta.", "instruction_id_list": ["ptbr:contem"], "kwargs": [{"palavra": "importante"}]}
+{"key": 116, "prompt": "Fale sobre o clima do Brasil. Cite a palavra 'água' pelo menos duas vezes.", "instruction_id_list": ["ptbr:contem_n_vezes"], "kwargs": [{"palavra": "água", "n": 2}]}
+{"key": 117, "prompt": "Fale sobre o clima do Brasil. Não use a palavra 'você' em nenhum momento.", "instruction_id_list": ["ptbr:nao_contem"], "kwargs": [{"palavra": "você"}]}
+{"key": 118, "prompt": "Fale sobre o clima do Brasil. Comece a resposta exatamente com a palavra 'Olha'.", "instruction_id_list": ["ptbr:comeca_com"], "kwargs": [{"texto": "Olha"}]}
+{"key": 119, "prompt": "Fale sobre o clima do Brasil. Termine a resposta com a frase 'Espero ter ajudado'.", "instruction_id_list": ["ptbr:termina_com"], "kwargs": [{"texto": "espero ter ajudado"}]}
+{"key": 120, "prompt": "Fale sobre o clima do Brasil. Escreva a resposta inteira em letras minúsculas.", "instruction_id_list": ["ptbr:minusculas"], "kwargs": [{}]}
+{"key": 121, "prompt": "Fale sobre o clima do Brasil. Use crase pelo menos uma vez na resposta.", "instruction_id_list": ["ptbr:crase"], "kwargs": [{}]}
+{"key": 122, "prompt": "Fale sobre o clima do Brasil. Não use crase em nenhum momento.", "instruction_id_list": ["ptbr:sem_crase"], "kwargs": [{}]}
+{"key": 123, "prompt": "Fale sobre o clima do Brasil. Use uma mesóclise na resposta, como em 'dar-lhe-ei'.", "instruction_id_list": ["ptbr:mesoclise"], "kwargs": [{}]}
+{"key": 124, "prompt": "Fale sobre o clima do Brasil. Use próclise depois de palavra atrativa, como em 'não me diga'.", "instruction_id_list": ["ptbr:proclise"], "kwargs": [{}]}
+{"key": 125, "prompt": "Fale sobre o clima do Brasil. Use ênclise na resposta, como em 'diga-me'.", "instruction_id_list": ["ptbr:enclise"], "kwargs": [{}]}
+{"key": 126, "prompt": "Fale sobre o clima do Brasil. Use pelo menos três palavras com a letra ç.", "instruction_id_list": ["ptbr:cedilha"], "kwargs": [{"n": 3}]}
+{"key": 127, "prompt": "Fale sobre o clima do Brasil. Escreva a resposta inteira sem usar nenhum til (ã, õ).", "instruction_id_list": ["ptbr:sem_til"], "kwargs": [{}]}
+{"key": 128, "prompt": "Fale sobre o clima do Brasil. Use 'por que' e 'porque' na mesma resposta.", "instruction_id_list": ["ptbr:porque_ambos"], "kwargs": [{}]}
+{"key": 129, "prompt": "Fale sobre o clima do Brasil. Trate o leitor por 'você' e nunca por 'tu'.", "instruction_id_list": ["ptbr:so_voce"], "kwargs": [{}]}
+{"key": 130, "prompt": "Fale sobre o clima do Brasil. Escreva a resposta inteira sem nenhum acento ou cedilha.", "instruction_id_list": ["ptbr:sem_diacritico"], "kwargs": [{}]}
+{"key": 131, "prompt": "Fale sobre o clima do Brasil. Escreva todos os números por extenso, sem algarismos.", "instruction_id_list": ["ptbr:sem_digito"], "kwargs": [{}]}
+{"key": 132, "prompt": "Fale sobre o clima do Brasil. Use na resposta pelo menos uma palavra com acento agudo e uma com circunflexo.", "instruction_id_list": ["ptbr:agudo_e_circunflexo"], "kwargs": [{}]}
+{"key": 133, "prompt": "Descreva um dia de chuva na cidade. Responda em no máximo 2 frases.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 2}]}
+{"key": 134, "prompt": "Descreva um dia de chuva na cidade. Responda em exatamente uma frase.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 1}]}
+{"key": 135, "prompt": "Descreva um dia de chuva na cidade. Use no máximo 30 palavras.", "instruction_id_list": ["ptbr:max_palavras"], "kwargs": [{"n": 30}]}
+{"key": 136, "prompt": "Descreva um dia de chuva na cidade. Escreva pelo menos 40 palavras.", "instruction_id_list": ["ptbr:min_palavras"], "kwargs": [{"n": 40}]}
+{"key": 137, "prompt": "Descreva um dia de chuva na cidade. Use a palavra 'importante' na resposta.", "instruction_id_list": ["ptbr:contem"], "kwargs": [{"palavra": "importante"}]}
+{"key": 138, "prompt": "Descreva um dia de chuva na cidade. Cite a palavra 'água' pelo menos duas vezes.", "instruction_id_list": ["ptbr:contem_n_vezes"], "kwargs": [{"palavra": "água", "n": 2}]}
+{"key": 139, "prompt": "Descreva um dia de chuva na cidade. Não use a palavra 'você' em nenhum momento.", "instruction_id_list": ["ptbr:nao_contem"], "kwargs": [{"palavra": "você"}]}
+{"key": 140, "prompt": "Descreva um dia de chuva na cidade. Comece a resposta exatamente com a palavra 'Olha'.", "instruction_id_list": ["ptbr:comeca_com"], "kwargs": [{"texto": "Olha"}]}
+{"key": 141, "prompt": "Descreva um dia de chuva na cidade. Termine a resposta com a frase 'Espero ter ajudado'.", "instruction_id_list": ["ptbr:termina_com"], "kwargs": [{"texto": "espero ter ajudado"}]}
+{"key": 142, "prompt": "Descreva um dia de chuva na cidade. Escreva a resposta inteira em letras minúsculas.", "instruction_id_list": ["ptbr:minusculas"], "kwargs": [{}]}
+{"key": 143, "prompt": "Descreva um dia de chuva na cidade. Use crase pelo menos uma vez na resposta.", "instruction_id_list": ["ptbr:crase"], "kwargs": [{}]}
+{"key": 144, "prompt": "Descreva um dia de chuva na cidade. Não use crase em nenhum momento.", "instruction_id_list": ["ptbr:sem_crase"], "kwargs": [{}]}
+{"key": 145, "prompt": "Descreva um dia de chuva na cidade. Use uma mesóclise na resposta, como em 'dar-lhe-ei'.", "instruction_id_list": ["ptbr:mesoclise"], "kwargs": [{}]}
+{"key": 146, "prompt": "Descreva um dia de chuva na cidade. Use próclise depois de palavra atrativa, como em 'não me diga'.", "instruction_id_list": ["ptbr:proclise"], "kwargs": [{}]}
+{"key": 147, "prompt": "Descreva um dia de chuva na cidade. Use ênclise na resposta, como em 'diga-me'.", "instruction_id_list": ["ptbr:enclise"], "kwargs": [{}]}
+{"key": 148, "prompt": "Descreva um dia de chuva na cidade. Use pelo menos três palavras com a letra ç.", "instruction_id_list": ["ptbr:cedilha"], "kwargs": [{"n": 3}]}
+{"key": 149, "prompt": "Descreva um dia de chuva na cidade. Escreva a resposta inteira sem usar nenhum til (ã, õ).", "instruction_id_list": ["ptbr:sem_til"], "kwargs": [{}]}
+{"key": 150, "prompt": "Descreva um dia de chuva na cidade. Use 'por que' e 'porque' na mesma resposta.", "instruction_id_list": ["ptbr:porque_ambos"], "kwargs": [{}]}
+{"key": 151, "prompt": "Descreva um dia de chuva na cidade. Trate o leitor por 'você' e nunca por 'tu'.", "instruction_id_list": ["ptbr:so_voce"], "kwargs": [{}]}
+{"key": 152, "prompt": "Descreva um dia de chuva na cidade. Escreva a resposta inteira sem nenhum acento ou cedilha.", "instruction_id_list": ["ptbr:sem_diacritico"], "kwargs": [{}]}
+{"key": 153, "prompt": "Descreva um dia de chuva na cidade. Escreva todos os números por extenso, sem algarismos.", "instruction_id_list": ["ptbr:sem_digito"], "kwargs": [{}]}
+{"key": 154, "prompt": "Descreva um dia de chuva na cidade. Use na resposta pelo menos uma palavra com acento agudo e uma com circunflexo.", "instruction_id_list": ["ptbr:agudo_e_circunflexo"], "kwargs": [{}]}
+{"key": 155, "prompt": "Explique para que serve uma geladeira. Responda em no máximo 2 frases.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 2}]}
+{"key": 156, "prompt": "Explique para que serve uma geladeira. Responda em exatamente uma frase.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 1}]}
+{"key": 157, "prompt": "Explique para que serve uma geladeira. Use no máximo 30 palavras.", "instruction_id_list": ["ptbr:max_palavras"], "kwargs": [{"n": 30}]}
+{"key": 158, "prompt": "Explique para que serve uma geladeira. Escreva pelo menos 40 palavras.", "instruction_id_list": ["ptbr:min_palavras"], "kwargs": [{"n": 40}]}
+{"key": 159, "prompt": "Explique para que serve uma geladeira. Use a palavra 'importante' na resposta.", "instruction_id_list": ["ptbr:contem"], "kwargs": [{"palavra": "importante"}]}
+{"key": 160, "prompt": "Explique para que serve uma geladeira. Cite a palavra 'água' pelo menos duas vezes.", "instruction_id_list": ["ptbr:contem_n_vezes"], "kwargs": [{"palavra": "água", "n": 2}]}
+{"key": 161, "prompt": "Explique para que serve uma geladeira. Não use a palavra 'você' em nenhum momento.", "instruction_id_list": ["ptbr:nao_contem"], "kwargs": [{"palavra": "você"}]}
+{"key": 162, "prompt": "Explique para que serve uma geladeira. Comece a resposta exatamente com a palavra 'Olha'.", "instruction_id_list": ["ptbr:comeca_com"], "kwargs": [{"texto": "Olha"}]}
+{"key": 163, "prompt": "Explique para que serve uma geladeira. Termine a resposta com a frase 'Espero ter ajudado'.", "instruction_id_list": ["ptbr:termina_com"], "kwargs": [{"texto": "espero ter ajudado"}]}
+{"key": 164, "prompt": "Explique para que serve uma geladeira. Escreva a resposta inteira em letras minúsculas.", "instruction_id_list": ["ptbr:minusculas"], "kwargs": [{}]}
+{"key": 165, "prompt": "Explique para que serve uma geladeira. Use crase pelo menos uma vez na resposta.", "instruction_id_list": ["ptbr:crase"], "kwargs": [{}]}
+{"key": 166, "prompt": "Explique para que serve uma geladeira. Não use crase em nenhum momento.", "instruction_id_list": ["ptbr:sem_crase"], "kwargs": [{}]}
+{"key": 167, "prompt": "Explique para que serve uma geladeira. Use uma mesóclise na resposta, como em 'dar-lhe-ei'.", "instruction_id_list": ["ptbr:mesoclise"], "kwargs": [{}]}
+{"key": 168, "prompt": "Explique para que serve uma geladeira. Use próclise depois de palavra atrativa, como em 'não me diga'.", "instruction_id_list": ["ptbr:proclise"], "kwargs": [{}]}
+{"key": 169, "prompt": "Explique para que serve uma geladeira. Use ênclise na resposta, como em 'diga-me'.", "instruction_id_list": ["ptbr:enclise"], "kwargs": [{}]}
+{"key": 170, "prompt": "Explique para que serve uma geladeira. Use pelo menos três palavras com a letra ç.", "instruction_id_list": ["ptbr:cedilha"], "kwargs": [{"n": 3}]}
+{"key": 171, "prompt": "Explique para que serve uma geladeira. Escreva a resposta inteira sem usar nenhum til (ã, õ).", "instruction_id_list": ["ptbr:sem_til"], "kwargs": [{}]}
+{"key": 172, "prompt": "Explique para que serve uma geladeira. Use 'por que' e 'porque' na mesma resposta.", "instruction_id_list": ["ptbr:porque_ambos"], "kwargs": [{}]}
+{"key": 173, "prompt": "Explique para que serve uma geladeira. Trate o leitor por 'você' e nunca por 'tu'.", "instruction_id_list": ["ptbr:so_voce"], "kwargs": [{}]}
+{"key": 174, "prompt": "Explique para que serve uma geladeira. Escreva a resposta inteira sem nenhum acento ou cedilha.", "instruction_id_list": ["ptbr:sem_diacritico"], "kwargs": [{}]}
+{"key": 175, "prompt": "Explique para que serve uma geladeira. Escreva todos os números por extenso, sem algarismos.", "instruction_id_list": ["ptbr:sem_digito"], "kwargs": [{}]}
+{"key": 176, "prompt": "Explique para que serve uma geladeira. Use na resposta pelo menos uma palavra com acento agudo e uma com circunflexo.", "instruction_id_list": ["ptbr:agudo_e_circunflexo"], "kwargs": [{}]}
+{"key": 177, "prompt": "Fale sobre a importância de dormir cedo. Responda em no máximo 2 frases.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 2}]}
+{"key": 178, "prompt": "Fale sobre a importância de dormir cedo. Responda em exatamente uma frase.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 1}]}
+{"key": 179, "prompt": "Fale sobre a importância de dormir cedo. Use no máximo 30 palavras.", "instruction_id_list": ["ptbr:max_palavras"], "kwargs": [{"n": 30}]}
+{"key": 180, "prompt": "Fale sobre a importância de dormir cedo. Escreva pelo menos 40 palavras.", "instruction_id_list": ["ptbr:min_palavras"], "kwargs": [{"n": 40}]}
+{"key": 181, "prompt": "Fale sobre a importância de dormir cedo. Use a palavra 'importante' na resposta.", "instruction_id_list": ["ptbr:contem"], "kwargs": [{"palavra": "importante"}]}
+{"key": 182, "prompt": "Fale sobre a importância de dormir cedo. Cite a palavra 'água' pelo menos duas vezes.", "instruction_id_list": ["ptbr:contem_n_vezes"], "kwargs": [{"palavra": "água", "n": 2}]}
+{"key": 183, "prompt": "Fale sobre a importância de dormir cedo. Não use a palavra 'você' em nenhum momento.", "instruction_id_list": ["ptbr:nao_contem"], "kwargs": [{"palavra": "você"}]}
+{"key": 184, "prompt": "Fale sobre a importância de dormir cedo. Comece a resposta exatamente com a palavra 'Olha'.", "instruction_id_list": ["ptbr:comeca_com"], "kwargs": [{"texto": "Olha"}]}
+{"key": 185, "prompt": "Fale sobre a importância de dormir cedo. Termine a resposta com a frase 'Espero ter ajudado'.", "instruction_id_list": ["ptbr:termina_com"], "kwargs": [{"texto": "espero ter ajudado"}]}
+{"key": 186, "prompt": "Fale sobre a importância de dormir cedo. Escreva a resposta inteira em letras minúsculas.", "instruction_id_list": ["ptbr:minusculas"], "kwargs": [{}]}
+{"key": 187, "prompt": "Fale sobre a importância de dormir cedo. Use crase pelo menos uma vez na resposta.", "instruction_id_list": ["ptbr:crase"], "kwargs": [{}]}
+{"key": 188, "prompt": "Fale sobre a importância de dormir cedo. Não use crase em nenhum momento.", "instruction_id_list": ["ptbr:sem_crase"], "kwargs": [{}]}
+{"key": 189, "prompt": "Fale sobre a importância de dormir cedo. Use uma mesóclise na resposta, como em 'dar-lhe-ei'.", "instruction_id_list": ["ptbr:mesoclise"], "kwargs": [{}]}
+{"key": 190, "prompt": "Fale sobre a importância de dormir cedo. Use próclise depois de palavra atrativa, como em 'não me diga'.", "instruction_id_list": ["ptbr:proclise"], "kwargs": [{}]}
+{"key": 191, "prompt": "Fale sobre a importância de dormir cedo. Use ênclise na resposta, como em 'diga-me'.", "instruction_id_list": ["ptbr:enclise"], "kwargs": [{}]}
+{"key": 192, "prompt": "Fale sobre a importância de dormir cedo. Use pelo menos três palavras com a letra ç.", "instruction_id_list": ["ptbr:cedilha"], "kwargs": [{"n": 3}]}
+{"key": 193, "prompt": "Fale sobre a importância de dormir cedo. Escreva a resposta inteira sem usar nenhum til (ã, õ).", "instruction_id_list": ["ptbr:sem_til"], "kwargs": [{}]}
+{"key": 194, "prompt": "Fale sobre a importância de dormir cedo. Use 'por que' e 'porque' na mesma resposta.", "instruction_id_list": ["ptbr:porque_ambos"], "kwargs": [{}]}
+{"key": 195, "prompt": "Fale sobre a importância de dormir cedo. Trate o leitor por 'você' e nunca por 'tu'.", "instruction_id_list": ["ptbr:so_voce"], "kwargs": [{}]}
+{"key": 196, "prompt": "Fale sobre a importância de dormir cedo. Escreva a resposta inteira sem nenhum acento ou cedilha.", "instruction_id_list": ["ptbr:sem_diacritico"], "kwargs": [{}]}
+{"key": 197, "prompt": "Fale sobre a importância de dormir cedo. Escreva todos os números por extenso, sem algarismos.", "instruction_id_list": ["ptbr:sem_digito"], "kwargs": [{}]}
+{"key": 198, "prompt": "Fale sobre a importância de dormir cedo. Use na resposta pelo menos uma palavra com acento agudo e uma com circunflexo.", "instruction_id_list": ["ptbr:agudo_e_circunflexo"], "kwargs": [{}]}
+{"key": 199, "prompt": "Descreva como se planta uma árvore. Responda em no máximo 2 frases.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 2}]}
+{"key": 200, "prompt": "Descreva como se planta uma árvore. Responda em exatamente uma frase.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 1}]}
+{"key": 201, "prompt": "Descreva como se planta uma árvore. Use no máximo 30 palavras.", "instruction_id_list": ["ptbr:max_palavras"], "kwargs": [{"n": 30}]}
+{"key": 202, "prompt": "Descreva como se planta uma árvore. Escreva pelo menos 40 palavras.", "instruction_id_list": ["ptbr:min_palavras"], "kwargs": [{"n": 40}]}
+{"key": 203, "prompt": "Descreva como se planta uma árvore. Use a palavra 'importante' na resposta.", "instruction_id_list": ["ptbr:contem"], "kwargs": [{"palavra": "importante"}]}
+{"key": 204, "prompt": "Descreva como se planta uma árvore. Cite a palavra 'água' pelo menos duas vezes.", "instruction_id_list": ["ptbr:contem_n_vezes"], "kwargs": [{"palavra": "água", "n": 2}]}
+{"key": 205, "prompt": "Descreva como se planta uma árvore. Não use a palavra 'você' em nenhum momento.", "instruction_id_list": ["ptbr:nao_contem"], "kwargs": [{"palavra": "você"}]}
+{"key": 206, "prompt": "Descreva como se planta uma árvore. Comece a resposta exatamente com a palavra 'Olha'.", "instruction_id_list": ["ptbr:comeca_com"], "kwargs": [{"texto": "Olha"}]}
+{"key": 207, "prompt": "Descreva como se planta uma árvore. Termine a resposta com a frase 'Espero ter ajudado'.", "instruction_id_list": ["ptbr:termina_com"], "kwargs": [{"texto": "espero ter ajudado"}]}
+{"key": 208, "prompt": "Descreva como se planta uma árvore. Escreva a resposta inteira em letras minúsculas.", "instruction_id_list": ["ptbr:minusculas"], "kwargs": [{}]}
+{"key": 209, "prompt": "Descreva como se planta uma árvore. Use crase pelo menos uma vez na resposta.", "instruction_id_list": ["ptbr:crase"], "kwargs": [{}]}
+{"key": 210, "prompt": "Descreva como se planta uma árvore. Não use crase em nenhum momento.", "instruction_id_list": ["ptbr:sem_crase"], "kwargs": [{}]}
+{"key": 211, "prompt": "Descreva como se planta uma árvore. Use uma mesóclise na resposta, como em 'dar-lhe-ei'.", "instruction_id_list": ["ptbr:mesoclise"], "kwargs": [{}]}
+{"key": 212, "prompt": "Descreva como se planta uma árvore. Use próclise depois de palavra atrativa, como em 'não me diga'.", "instruction_id_list": ["ptbr:proclise"], "kwargs": [{}]}
+{"key": 213, "prompt": "Descreva como se planta uma árvore. Use ênclise na resposta, como em 'diga-me'.", "instruction_id_list": ["ptbr:enclise"], "kwargs": [{}]}
+{"key": 214, "prompt": "Descreva como se planta uma árvore. Use pelo menos três palavras com a letra ç.", "instruction_id_list": ["ptbr:cedilha"], "kwargs": [{"n": 3}]}
+{"key": 215, "prompt": "Descreva como se planta uma árvore. Escreva a resposta inteira sem usar nenhum til (ã, õ).", "instruction_id_list": ["ptbr:sem_til"], "kwargs": [{}]}
+{"key": 216, "prompt": "Descreva como se planta uma árvore. Use 'por que' e 'porque' na mesma resposta.", "instruction_id_list": ["ptbr:porque_ambos"], "kwargs": [{}]}
+{"key": 217, "prompt": "Descreva como se planta uma árvore. Trate o leitor por 'você' e nunca por 'tu'.", "instruction_id_list": ["ptbr:so_voce"], "kwargs": [{}]}
+{"key": 218, "prompt": "Descreva como se planta uma árvore. Escreva a resposta inteira sem nenhum acento ou cedilha.", "instruction_id_list": ["ptbr:sem_diacritico"], "kwargs": [{}]}
+{"key": 219, "prompt": "Descreva como se planta uma árvore. Escreva todos os números por extenso, sem algarismos.", "instruction_id_list": ["ptbr:sem_digito"], "kwargs": [{}]}
+{"key": 220, "prompt": "Descreva como se planta uma árvore. Use na resposta pelo menos uma palavra com acento agudo e uma com circunflexo.", "instruction_id_list": ["ptbr:agudo_e_circunflexo"], "kwargs": [{}]}
+{"key": 221, "prompt": "Explique por que é bom guardar dinheiro. Responda em no máximo 2 frases.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 2}]}
+{"key": 222, "prompt": "Explique por que é bom guardar dinheiro. Responda em exatamente uma frase.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 1}]}
+{"key": 223, "prompt": "Explique por que é bom guardar dinheiro. Use no máximo 30 palavras.", "instruction_id_list": ["ptbr:max_palavras"], "kwargs": [{"n": 30}]}
+{"key": 224, "prompt": "Explique por que é bom guardar dinheiro. Escreva pelo menos 40 palavras.", "instruction_id_list": ["ptbr:min_palavras"], "kwargs": [{"n": 40}]}
+{"key": 225, "prompt": "Explique por que é bom guardar dinheiro. Use a palavra 'importante' na resposta.", "instruction_id_list": ["ptbr:contem"], "kwargs": [{"palavra": "importante"}]}
+{"key": 226, "prompt": "Explique por que é bom guardar dinheiro. Cite a palavra 'água' pelo menos duas vezes.", "instruction_id_list": ["ptbr:contem_n_vezes"], "kwargs": [{"palavra": "água", "n": 2}]}
+{"key": 227, "prompt": "Explique por que é bom guardar dinheiro. Não use a palavra 'você' em nenhum momento.", "instruction_id_list": ["ptbr:nao_contem"], "kwargs": [{"palavra": "você"}]}
+{"key": 228, "prompt": "Explique por que é bom guardar dinheiro. Comece a resposta exatamente com a palavra 'Olha'.", "instruction_id_list": ["ptbr:comeca_com"], "kwargs": [{"texto": "Olha"}]}
+{"key": 229, "prompt": "Explique por que é bom guardar dinheiro. Termine a resposta com a frase 'Espero ter ajudado'.", "instruction_id_list": ["ptbr:termina_com"], "kwargs": [{"texto": "espero ter ajudado"}]}
+{"key": 230, "prompt": "Explique por que é bom guardar dinheiro. Escreva a resposta inteira em letras minúsculas.", "instruction_id_list": ["ptbr:minusculas"], "kwargs": [{}]}
+{"key": 231, "prompt": "Explique por que é bom guardar dinheiro. Use crase pelo menos uma vez na resposta.", "instruction_id_list": ["ptbr:crase"], "kwargs": [{}]}
+{"key": 232, "prompt": "Explique por que é bom guardar dinheiro. Não use crase em nenhum momento.", "instruction_id_list": ["ptbr:sem_crase"], "kwargs": [{}]}
+{"key": 233, "prompt": "Explique por que é bom guardar dinheiro. Use uma mesóclise na resposta, como em 'dar-lhe-ei'.", "instruction_id_list": ["ptbr:mesoclise"], "kwargs": [{}]}
+{"key": 234, "prompt": "Explique por que é bom guardar dinheiro. Use próclise depois de palavra atrativa, como em 'não me diga'.", "instruction_id_list": ["ptbr:proclise"], "kwargs": [{}]}
+{"key": 235, "prompt": "Explique por que é bom guardar dinheiro. Use ênclise na resposta, como em 'diga-me'.", "instruction_id_list": ["ptbr:enclise"], "kwargs": [{}]}
+{"key": 236, "prompt": "Explique por que é bom guardar dinheiro. Use pelo menos três palavras com a letra ç.", "instruction_id_list": ["ptbr:cedilha"], "kwargs": [{"n": 3}]}
+{"key": 237, "prompt": "Explique por que é bom guardar dinheiro. Escreva a resposta inteira sem usar nenhum til (ã, õ).", "instruction_id_list": ["ptbr:sem_til"], "kwargs": [{}]}
+{"key": 238, "prompt": "Explique por que é bom guardar dinheiro. Use 'por que' e 'porque' na mesma resposta.", "instruction_id_list": ["ptbr:porque_ambos"], "kwargs": [{}]}
+{"key": 239, "prompt": "Explique por que é bom guardar dinheiro. Trate o leitor por 'você' e nunca por 'tu'.", "instruction_id_list": ["ptbr:so_voce"], "kwargs": [{}]}
+{"key": 240, "prompt": "Explique por que é bom guardar dinheiro. Escreva a resposta inteira sem nenhum acento ou cedilha.", "instruction_id_list": ["ptbr:sem_diacritico"], "kwargs": [{}]}
+{"key": 241, "prompt": "Explique por que é bom guardar dinheiro. Escreva todos os números por extenso, sem algarismos.", "instruction_id_list": ["ptbr:sem_digito"], "kwargs": [{}]}
+{"key": 242, "prompt": "Explique por que é bom guardar dinheiro. Use na resposta pelo menos uma palavra com acento agudo e uma com circunflexo.", "instruction_id_list": ["ptbr:agudo_e_circunflexo"], "kwargs": [{}]}
+{"key": 243, "prompt": "Fale sobre o que faz um professor. Responda em no máximo 2 frases.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 2}]}
+{"key": 244, "prompt": "Fale sobre o que faz um professor. Responda em exatamente uma frase.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 1}]}
+{"key": 245, "prompt": "Fale sobre o que faz um professor. Use no máximo 30 palavras.", "instruction_id_list": ["ptbr:max_palavras"], "kwargs": [{"n": 30}]}
+{"key": 246, "prompt": "Fale sobre o que faz um professor. Escreva pelo menos 40 palavras.", "instruction_id_list": ["ptbr:min_palavras"], "kwargs": [{"n": 40}]}
+{"key": 247, "prompt": "Fale sobre o que faz um professor. Use a palavra 'importante' na resposta.", "instruction_id_list": ["ptbr:contem"], "kwargs": [{"palavra": "importante"}]}
+{"key": 248, "prompt": "Fale sobre o que faz um professor. Cite a palavra 'água' pelo menos duas vezes.", "instruction_id_list": ["ptbr:contem_n_vezes"], "kwargs": [{"palavra": "água", "n": 2}]}
+{"key": 249, "prompt": "Fale sobre o que faz um professor. Não use a palavra 'você' em nenhum momento.", "instruction_id_list": ["ptbr:nao_contem"], "kwargs": [{"palavra": "você"}]}
+{"key": 250, "prompt": "Fale sobre o que faz um professor. Comece a resposta exatamente com a palavra 'Olha'.", "instruction_id_list": ["ptbr:comeca_com"], "kwargs": [{"texto": "Olha"}]}
+{"key": 251, "prompt": "Fale sobre o que faz um professor. Termine a resposta com a frase 'Espero ter ajudado'.", "instruction_id_list": ["ptbr:termina_com"], "kwargs": [{"texto": "espero ter ajudado"}]}
+{"key": 252, "prompt": "Fale sobre o que faz um professor. Escreva a resposta inteira em letras minúsculas.", "instruction_id_list": ["ptbr:minusculas"], "kwargs": [{}]}
+{"key": 253, "prompt": "Fale sobre o que faz um professor. Use crase pelo menos uma vez na resposta.", "instruction_id_list": ["ptbr:crase"], "kwargs": [{}]}
+{"key": 254, "prompt": "Fale sobre o que faz um professor. Não use crase em nenhum momento.", "instruction_id_list": ["ptbr:sem_crase"], "kwargs": [{}]}
+{"key": 255, "prompt": "Fale sobre o que faz um professor. Use uma mesóclise na resposta, como em 'dar-lhe-ei'.", "instruction_id_list": ["ptbr:mesoclise"], "kwargs": [{}]}
+{"key": 256, "prompt": "Fale sobre o que faz um professor. Use próclise depois de palavra atrativa, como em 'não me diga'.", "instruction_id_list": ["ptbr:proclise"], "kwargs": [{}]}
+{"key": 257, "prompt": "Fale sobre o que faz um professor. Use ênclise na resposta, como em 'diga-me'.", "instruction_id_list": ["ptbr:enclise"], "kwargs": [{}]}
+{"key": 258, "prompt": "Fale sobre o que faz um professor. Use pelo menos três palavras com a letra ç.", "instruction_id_list": ["ptbr:cedilha"], "kwargs": [{"n": 3}]}
+{"key": 259, "prompt": "Fale sobre o que faz um professor. Escreva a resposta inteira sem usar nenhum til (ã, õ).", "instruction_id_list": ["ptbr:sem_til"], "kwargs": [{}]}
+{"key": 260, "prompt": "Fale sobre o que faz um professor. Use 'por que' e 'porque' na mesma resposta.", "instruction_id_list": ["ptbr:porque_ambos"], "kwargs": [{}]}
+{"key": 261, "prompt": "Fale sobre o que faz um professor. Trate o leitor por 'você' e nunca por 'tu'.", "instruction_id_list": ["ptbr:so_voce"], "kwargs": [{}]}
+{"key": 262, "prompt": "Fale sobre o que faz um professor. Escreva a resposta inteira sem nenhum acento ou cedilha.", "instruction_id_list": ["ptbr:sem_diacritico"], "kwargs": [{}]}
+{"key": 263, "prompt": "Fale sobre o que faz um professor. Escreva todos os números por extenso, sem algarismos.", "instruction_id_list": ["ptbr:sem_digito"], "kwargs": [{}]}
+{"key": 264, "prompt": "Fale sobre o que faz um professor. Use na resposta pelo menos uma palavra com acento agudo e uma com circunflexo.", "instruction_id_list": ["ptbr:agudo_e_circunflexo"], "kwargs": [{}]}
+{"key": 265, "prompt": "Descreva como se organiza uma mudança de casa. Responda em no máximo 2 frases.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 2}]}
+{"key": 266, "prompt": "Descreva como se organiza uma mudança de casa. Responda em exatamente uma frase.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 1}]}
+{"key": 267, "prompt": "Descreva como se organiza uma mudança de casa. Use no máximo 30 palavras.", "instruction_id_list": ["ptbr:max_palavras"], "kwargs": [{"n": 30}]}
+{"key": 268, "prompt": "Descreva como se organiza uma mudança de casa. Escreva pelo menos 40 palavras.", "instruction_id_list": ["ptbr:min_palavras"], "kwargs": [{"n": 40}]}
+{"key": 269, "prompt": "Descreva como se organiza uma mudança de casa. Use a palavra 'importante' na resposta.", "instruction_id_list": ["ptbr:contem"], "kwargs": [{"palavra": "importante"}]}
+{"key": 270, "prompt": "Descreva como se organiza uma mudança de casa. Cite a palavra 'água' pelo menos duas vezes.", "instruction_id_list": ["ptbr:contem_n_vezes"], "kwargs": [{"palavra": "água", "n": 2}]}
+{"key": 271, "prompt": "Descreva como se organiza uma mudança de casa. Não use a palavra 'você' em nenhum momento.", "instruction_id_list": ["ptbr:nao_contem"], "kwargs": [{"palavra": "você"}]}
+{"key": 272, "prompt": "Descreva como se organiza uma mudança de casa. Comece a resposta exatamente com a palavra 'Olha'.", "instruction_id_list": ["ptbr:comeca_com"], "kwargs": [{"texto": "Olha"}]}
+{"key": 273, "prompt": "Descreva como se organiza uma mudança de casa. Termine a resposta com a frase 'Espero ter ajudado'.", "instruction_id_list": ["ptbr:termina_com"], "kwargs": [{"texto": "espero ter ajudado"}]}
+{"key": 274, "prompt": "Descreva como se organiza uma mudança de casa. Escreva a resposta inteira em letras minúsculas.", "instruction_id_list": ["ptbr:minusculas"], "kwargs": [{}]}
+{"key": 275, "prompt": "Descreva como se organiza uma mudança de casa. Use crase pelo menos uma vez na resposta.", "instruction_id_list": ["ptbr:crase"], "kwargs": [{}]}
+{"key": 276, "prompt": "Descreva como se organiza uma mudança de casa. Não use crase em nenhum momento.", "instruction_id_list": ["ptbr:sem_crase"], "kwargs": [{}]}
+{"key": 277, "prompt": "Descreva como se organiza uma mudança de casa. Use uma mesóclise na resposta, como em 'dar-lhe-ei'.", "instruction_id_list": ["ptbr:mesoclise"], "kwargs": [{}]}
+{"key": 278, "prompt": "Descreva como se organiza uma mudança de casa. Use próclise depois de palavra atrativa, como em 'não me diga'.", "instruction_id_list": ["ptbr:proclise"], "kwargs": [{}]}
+{"key": 279, "prompt": "Descreva como se organiza uma mudança de casa. Use ênclise na resposta, como em 'diga-me'.", "instruction_id_list": ["ptbr:enclise"], "kwargs": [{}]}
+{"key": 280, "prompt": "Descreva como se organiza uma mudança de casa. Use pelo menos três palavras com a letra ç.", "instruction_id_list": ["ptbr:cedilha"], "kwargs": [{"n": 3}]}
+{"key": 281, "prompt": "Descreva como se organiza uma mudança de casa. Escreva a resposta inteira sem usar nenhum til (ã, õ).", "instruction_id_list": ["ptbr:sem_til"], "kwargs": [{}]}
+{"key": 282, "prompt": "Descreva como se organiza uma mudança de casa. Use 'por que' e 'porque' na mesma resposta.", "instruction_id_list": ["ptbr:porque_ambos"], "kwargs": [{}]}
+{"key": 283, "prompt": "Descreva como se organiza uma mudança de casa. Trate o leitor por 'você' e nunca por 'tu'.", "instruction_id_list": ["ptbr:so_voce"], "kwargs": [{}]}
+{"key": 284, "prompt": "Descreva como se organiza uma mudança de casa. Escreva a resposta inteira sem nenhum acento ou cedilha.", "instruction_id_list": ["ptbr:sem_diacritico"], "kwargs": [{}]}
+{"key": 285, "prompt": "Descreva como se organiza uma mudança de casa. Escreva todos os números por extenso, sem algarismos.", "instruction_id_list": ["ptbr:sem_digito"], "kwargs": [{}]}
+{"key": 286, "prompt": "Descreva como se organiza uma mudança de casa. Use na resposta pelo menos uma palavra com acento agudo e uma com circunflexo.", "instruction_id_list": ["ptbr:agudo_e_circunflexo"], "kwargs": [{}]}
+{"key": 287, "prompt": "Explique o que acontece quando falta energia elétrica. Responda em no máximo 2 frases.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 2}]}
+{"key": 288, "prompt": "Explique o que acontece quando falta energia elétrica. Responda em exatamente uma frase.", "instruction_id_list": ["ptbr:max_frases"], "kwargs": [{"n": 1}]}
+{"key": 289, "prompt": "Explique o que acontece quando falta energia elétrica. Use no máximo 30 palavras.", "instruction_id_list": ["ptbr:max_palavras"], "kwargs": [{"n": 30}]}
+{"key": 290, "prompt": "Explique o que acontece quando falta energia elétrica. Escreva pelo menos 40 palavras.", "instruction_id_list": ["ptbr:min_palavras"], "kwargs": [{"n": 40}]}
+{"key": 291, "prompt": "Explique o que acontece quando falta energia elétrica. Use a palavra 'importante' na resposta.", "instruction_id_list": ["ptbr:contem"], "kwargs": [{"palavra": "importante"}]}
+{"key": 292, "prompt": "Explique o que acontece quando falta energia elétrica. Cite a palavra 'água' pelo menos duas vezes.", "instruction_id_list": ["ptbr:contem_n_vezes"], "kwargs": [{"palavra": "água", "n": 2}]}
+{"key": 293, "prompt": "Explique o que acontece quando falta energia elétrica. Não use a palavra 'você' em nenhum momento.", "instruction_id_list": ["ptbr:nao_contem"], "kwargs": [{"palavra": "você"}]}
+{"key": 294, "prompt": "Explique o que acontece quando falta energia elétrica. Comece a resposta exatamente com a palavra 'Olha'.", "instruction_id_list": ["ptbr:comeca_com"], "kwargs": [{"texto": "Olha"}]}
+{"key": 295, "prompt": "Explique o que acontece quando falta energia elétrica. Termine a resposta com a frase 'Espero ter ajudado'.", "instruction_id_list": ["ptbr:termina_com"], "kwargs": [{"texto": "espero ter ajudado"}]}
+{"key": 296, "prompt": "Explique o que acontece quando falta energia elétrica. Escreva a resposta inteira em letras minúsculas.", "instruction_id_list": ["ptbr:minusculas"], "kwargs": [{}]}
+{"key": 297, "prompt": "Explique o que acontece quando falta energia elétrica. Use crase pelo menos uma vez na resposta.", "instruction_id_list": ["ptbr:crase"], "kwargs": [{}]}
+{"key": 298, "prompt": "Explique o que acontece quando falta energia elétrica. Não use crase em nenhum momento.", "instruction_id_list": ["ptbr:sem_crase"], "kwargs": [{}]}
+{"key": 299, "prompt": "Explique o que acontece quando falta energia elétrica. Use uma mesóclise na resposta, como em 'dar-lhe-ei'.", "instruction_id_list": ["ptbr:mesoclise"], "kwargs": [{}]}
+{"key": 300, "prompt": "Explique o que acontece quando falta energia elétrica. Use próclise depois de palavra atrativa, como em 'não me diga'.", "instruction_id_list": ["ptbr:proclise"], "kwargs": [{}]}
+{"key": 301, "prompt": "Explique o que acontece quando falta energia elétrica. Use ênclise na resposta, como em 'diga-me'.", "instruction_id_list": ["ptbr:enclise"], "kwargs": [{}]}
+{"key": 302, "prompt": "Explique o que acontece quando falta energia elétrica. Use pelo menos três palavras com a letra ç.", "instruction_id_list": ["ptbr:cedilha"], "kwargs": [{"n": 3}]}
+{"key": 303, "prompt": "Explique o que acontece quando falta energia elétrica. Escreva a resposta inteira sem usar nenhum til (ã, õ).", "instruction_id_list": ["ptbr:sem_til"], "kwargs": [{}]}
+{"key": 304, "prompt": "Explique o que acontece quando falta energia elétrica. Use 'por que' e 'porque' na mesma resposta.", "instruction_id_list": ["ptbr:porque_ambos"], "kwargs": [{}]}
+{"key": 305, "prompt": "Explique o que acontece quando falta energia elétrica. Trate o leitor por 'você' e nunca por 'tu'.", "instruction_id_list": ["ptbr:so_voce"], "kwargs": [{}]}
+{"key": 306, "prompt": "Explique o que acontece quando falta energia elétrica. Escreva a resposta inteira sem nenhum acento ou cedilha.", "instruction_id_list": ["ptbr:sem_diacritico"], "kwargs": [{}]}
+{"key": 307, "prompt": "Explique o que acontece quando falta energia elétrica. Escreva todos os números por extenso, sem algarismos.", "instruction_id_list": ["ptbr:sem_digito"], "kwargs": [{}]}
+{"key": 308, "prompt": "Explique o que acontece quando falta energia elétrica. Use na resposta pelo menos uma palavra com acento agudo e uma com circunflexo.", "instruction_id_list": ["ptbr:agudo_e_circunflexo"], "kwargs": [{}]}
