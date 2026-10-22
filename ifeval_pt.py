@@ -284,7 +284,7 @@ def main() -> int:
     ap.add_argument("--max-tokens", type=int, default=300)
     ap.add_argument("--saida", default=None)
     ap.add_argument("--rotulo", default="sem-rotulo")
-    ap.add_argument("--limite", type=int, default=0, help="0 = todos os 100")
+    ap.add_argument("--limite", type=int, default=0, help="0 = todos os itens (308)")
     a = ap.parse_args()
 
     cfg = {"temperature": a.temp, "max_tokens": a.max_tokens, "top_p": 0.9,

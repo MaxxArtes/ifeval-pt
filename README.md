@@ -62,9 +62,11 @@ para funcionar de imediato com quem já avalia o original:
  "kwargs": [{}]}
 ```
 
-308 itens = 14 tarefas-base × 22 restrições. O número foi escolhido por **itens por
-restrição** (14), não pelo total: com 14 dá para reportar taxa por restrição com intervalo
-de confiança utilizável (±5,5 pontos a 95%, contra ±9,5 se fossem 100).
+308 itens = 14 tarefas-base × 22 variantes de restrição (21 verificadores; `max_frases`
+entra com dois limites). Com 14 itens por restrição dá para ver a taxa de cada uma, mas
+o intervalo é largo: em 7/14, o intervalo de Wilson a 95% é de cerca de ±23 pp. Para
+o agregado de 308 itens, ±5,5 pp é aproximação de pior caso sob independência (as 22
+variantes reusam 14 tarefas-base); comparar modelos exige análise pareada por tarefa-base.
 
 ## Duas notas, como no original
 
@@ -74,9 +76,16 @@ de confiança utilizável (±5,5 pontos a 95%, contra ±9,5 se fossem 100).
 
 ## Como ler o resultado
 
-| Modelo | Estrita | Frouxa |
-|---|---|---|
-| Pocket-LM 269M (só pré-treino, sem ajuste de instrução) | 32,8% | 32,8% |
+| Modelo | Estrita | Frouxa | quando |
+|---|---|---|---|
+| Pocket-LM 269M base `corpus-limpo-v1` (só pré-treino) | 39,6% | 39,6% | ago/2026 |
+| Pocket-LM 269M `pocket-assistente-v2` (sem pós-processamento) | 40,6% | não medida | ago/2026 |
+| Pocket-LM 269M, base anterior (`ext3`, substituída) | 32,8% | 32,8% | jul/2026 |
+| Sabiá-4 (Maritaca, via API) | 86,7% | 86,7% | ago/2026 |
+| Sabiazinho-4 (Maritaca, via API) | 88,3% | 88,3% | ago/2026 |
+
+Agregado (n=308): cerca de ±5,5 pp só sob independência (aproximação). A análise por restrição abaixo
+foi feita na base anterior (32,8%).
 
 O padrão nesse resultado é o aviso mais útil para quem for usar o benchmark: restrições
 **passivas** ("não use crase") são satisfeitas por acidente quando a resposta é curta —
